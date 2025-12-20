@@ -1,0 +1,4 @@
+FROM nvcr.io/nvidia/tritonserver:23.12-py3
+
+RUN pip install faiss-cpu
+
