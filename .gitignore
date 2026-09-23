@@ -6,3 +6,7 @@
 **/.ruff_cache
 **/.pytest_cache
 **/faiss.index
+
+# Local generated files
+.DS_Store
+*.py[cod]
